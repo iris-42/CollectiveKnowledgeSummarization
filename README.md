@@ -1,1 +1,1 @@
-# CollectiveKnowledgeSummarization
+# Dataset of Golden Summary
